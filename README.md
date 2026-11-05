@@ -48,7 +48,7 @@ The dashboard includes six important HR metrics:
 
 ## Dashboard Preview
 
-    ![HR Analytics Dashboard](Dashboard_Screenshot.png)
+![HR Analytics Dashboard](Dashboard_Screenshot.png)
 
 ## Project Workflow
 
